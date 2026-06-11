@@ -1,13 +1,13 @@
 {
   "name":"john cena",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bott"
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "thundersmp1112.aternos.me",
-    "port": 60287,
+    "ip": "Potatosmp-tk6t.aternos.me",
+    "port": 49791,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        ":",
+        ":",
+        ":"
       ]
     },
     "chat-log": true,
