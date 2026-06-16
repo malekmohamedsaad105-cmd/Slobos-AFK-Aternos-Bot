@@ -1,7 +1,7 @@
 {
-  "name":"john cena",
+  "name": "john cena",
   "bot-account": {
-    "username": "SLOBOT00"
+    "username": "SLOBOT00",
     "password": "",
     "type": "offline"
   },
