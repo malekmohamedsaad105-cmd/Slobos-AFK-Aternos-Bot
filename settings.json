@@ -1,14 +1,14 @@
 {
   "name":"john cena",
   "bot-account": {
-    "username": "bott"
+    "username": "SLOBOT00"
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Potatosmp-tk6t.aternos.me",
     "port": 49791,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        ":",
-        ":",
-        ":"
+        "HI IM REGULAR PLAYER",
+        "R PLAYE",
+        "R PLAYER PLAYE"
       ]
     },
     "chat-log": true,
