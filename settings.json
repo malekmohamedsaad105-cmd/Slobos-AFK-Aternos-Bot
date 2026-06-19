@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Potatosmp-tk6t.aternos.me",
-    "port": 49791,
+    "ip": "thundrsmp-arks.aternos.me",
+    "port": 25241,
     "version": "1.21.11",
     "try-creative": false
   },
