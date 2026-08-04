@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thundrsmp-arks.aternos.me",
-    "port": 25241,
+    "ip": "DARKsmp0.aternos.me",
+    "port": 20689,
     "version": "1.21.11",
     "try-creative": false
   },
